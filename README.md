@@ -4,3 +4,6 @@
 - 🦄  Remote Software Engineer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDecoder&layout=compact)](https://github.com/ByteDecoder/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=ByteDecoder&show_icons=true&theme=synthwave&line_height=33)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDecoder&theme=radical)

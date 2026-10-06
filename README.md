@@ -4,13 +4,13 @@
 
 ⚡ **Current Tech Stack:**
 
-🤖 AI & Data: `Python` | `LLMs`
+💎 Web & DevOps: `Ruby on Rails` | `React` | `TS / JS` | `Docker`
 
 🟣 Backend & Gaming: `.NET Core` | `Modern C#` | `Unity`
 
-🔌 IoT & Hardware: `Arduino` | `Raspberry Pi`
+🤖 AI & Data: `Python` | `LLMs`
 
-💎 Web & DevOps: `Ruby on Rails` | `React` | `TS / JS` | `Docker`
+🔌 IoT & Hardware: `Arduino` | `Raspberry Pi`
 
 🦀 **Next Goal:** `Rust Initiate` 
 

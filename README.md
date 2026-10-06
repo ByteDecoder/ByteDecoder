@@ -4,9 +4,9 @@
 
 ⚡ **Current Tech Stack:**
 
-💎 Web & DevOps: `Ruby on Rails` | `React` | `TS / JS` | `Docker`
+🔸 **Web & DevOps:** `Ruby on Rails` | `React` | `TS / JS` | `Docker`
 
-🟣 Backend & Gaming: `.NET Core` | `Modern C#` | `Unity`
+🟪 **Backend & Gaming:**`.NET Core` | `Modern C#` | `Unity`
 
 🤖 AI & Data: `Python` | `LLMs`
 
